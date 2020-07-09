@@ -2,7 +2,7 @@
   <div id="app">
     <div class="container">
       <div>
-        <img id="img-avatar" class="mt-2" src="./assets/logo.png" />
+        <img id="img-avatar" class="mt-2" src="./assets/logo.webp" />
       </div>
       <div class="nav-bar card mb-3">
         <ul class="nav">
